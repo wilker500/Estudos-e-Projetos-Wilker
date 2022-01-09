@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Contas\ContasTests\bin\Debug\.netcoreapp,version=v3.1\CoverletSourceRootsMapping
+C:\Users\Usuario\source\repos\Contas\ContasTests\obj\Debug\.netcoreapp,version=v3.1\ContasTests.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Contas\ContasTests\obj\Debug\.netcoreapp,version=v3.1\ContasTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Contas\ContasTests\obj\Debug\.netcoreapp,version=v3.1\ContasTests.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Contas\ContasTests\obj\Debug\.netcoreapp,version=v3.1\ContasTests.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Contas\ContasTests\obj\Debug\.netcoreapp,version=v3.1\ContasTests.csproj.CoreCompileInputs.cache

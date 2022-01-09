@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Contas\Contas\obj\Debug\netcoreapp3.1\Contas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Contas\Contas\obj\Debug\netcoreapp3.1\Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Contas\Contas\obj\Debug\netcoreapp3.1\Contas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Contas\Contas\obj\Debug\netcoreapp3.1\Contas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Contas\Contas\obj\Debug\netcoreapp3.1\Contas.csproj.CoreCompileInputs.cache

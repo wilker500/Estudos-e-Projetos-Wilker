@@ -1,0 +1,6 @@
+Planilha que envia e-mail
+Esta planilha foi criada com o objetivo de facilitar o meu trabalho no dia a dia. Foram criados dados fictícios para preservar os dados da empresa.
+Basicamente a planilha permite com que você edite os e-mails que serão enviados, o supervisor da nossa filial A, supervisonal regional da filial A, 
+supervisor nacional, configurar o nome do gerente da filial, editar o assunto do e-mail e também configurar o texto que será enviado no e-mail. A 
+Planilha permite com que você encaminhe uma grande quantidade de e-mails com um click. No momento ela só funciona para o Outlook.
+ 

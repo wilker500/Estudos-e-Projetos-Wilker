@@ -1,0 +1,18 @@
+Sub Macro()
+'Creates a new email item and modifies its properties.
+  Dim objMail As Outlook.MailItem
+   'Create email item
+  Set objMail = Application.CreateItem(olMailItem)
+  With objMail
+  'Set body format to HTML
+ .To = ""
+ .CC = ""
+ .BCC = "" & ""
+ .Subject = ""
+  .BodyFormat = olFormatHTML
+  .HTMLBody = _
+  "TEXTO"
+  .Attachments.Add "C:\arquivo.jpg"
+  .Send
+  End With
+  End Sub

@@ -1,0 +1,2 @@
+Macro para enviar e-mail com arquivo.
+Esta Macro foi criada com o objetivo de encaminhar e-mails para um grupo de contatos juntamente com um arquivo de preferência.
